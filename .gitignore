@@ -1,0 +1,6 @@
+*.pyc
+venv/
+*.json
+reports/
+failed_scenarios_screenshots/
+*.output
